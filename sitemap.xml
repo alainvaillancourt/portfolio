@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<url>
+	<loc>https://alainvaillancourt.github.io/portfolio</loc>
+	<xhtml:link rel="alternate"	hreflang="fr" href="https://alainvaillancourt.github.io/portfolio?lang=fr"/>
+	<xhtml:link rel="alternate"	hreflang="en" href="https://alainvaillancourt.github.io/portfolio"/>
+</url>
+<url>
+	<loc>https://alainvaillancourt.pro/windows-10-extended-security-updates-esu</loc>
+	<xhtml:link rel="alternate"	hreflang="fr" href="https://fr.alainvaillancourt.pro/mises-a-jour-de-securite-etendues-esu-pour-windows-10" />
+	<xhtml:link rel="alternate"	hreflang="en" href="https://alainvaillancourt.pro/windows-10-extended-security-updates-esu"	/>
+</url>
+<url>
+	<loc>https://alainvaillancourt.pro/contact/</loc>
+	<xhtml:link rel="alternate"	hreflang="fr" href="https://fr.alainvaillancourt.pro/contact/" />
+	<xhtml:link rel="alternate"	hreflang="en" href="https://alainvaillancourt.pro/contact/" />
+</url>
+<url>
+	<loc>https://alainvaillancourt.pro/portfolio/</loc>
+	<xhtml:link rel="alternate"	hreflang="fr" href="https://fr.alainvaillancourt.pro/portfolio/" />
+	<xhtml:link rel="alternate"	hreflang="en" href="https://alainvaillancourt.pro/portfolio/" />
+</url>
+</urlset>
