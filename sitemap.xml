@@ -6,18 +6,28 @@
 	<xhtml:link rel="alternate"	hreflang="en" href="https://alainvaillancourt.github.io/portfolio"/>
 </url>
 <url>
-	<loc>https://alainvaillancourt.pro/windows-10-extended-security-updates-esu</loc>
-	<xhtml:link rel="alternate"	hreflang="fr" href="https://fr.alainvaillancourt.pro/mises-a-jour-de-securite-etendues-esu-pour-windows-10" />
-	<xhtml:link rel="alternate"	hreflang="en" href="https://alainvaillancourt.pro/windows-10-extended-security-updates-esu"	/>
+	<loc>hhttps://alainvaillancourt.github.io/portfolio/skills</loc>
+	<xhtml:link rel="alternate"	hreflang="fr" href="https://alainvaillancourt.github.io/portfolio/compétences?lang=fr" />
+	<xhtml:link rel="alternate"	hreflang="en" href="https://alainvaillancourt.github.io/portfolio/skills"	/>
 </url>
 <url>
-	<loc>https://alainvaillancourt.pro/contact/</loc>
-	<xhtml:link rel="alternate"	hreflang="fr" href="https://fr.alainvaillancourt.pro/contact/" />
-	<xhtml:link rel="alternate"	hreflang="en" href="https://alainvaillancourt.pro/contact/" />
+	<loc>https://alainvaillancourt.github.io/portfolio/projects</loc>
+	<xhtml:link rel="alternate"	hreflang="fr" href="https://alainvaillancourt.github.io/portfolio/projets?lang=fr" />
+	<xhtml:link rel="alternate"	hreflang="en" href="https://alainvaillancourt.github.io/portfolio/projects" />
 </url>
 <url>
-	<loc>https://alainvaillancourt.pro/portfolio/</loc>
-	<xhtml:link rel="alternate"	hreflang="fr" href="https://fr.alainvaillancourt.pro/portfolio/" />
-	<xhtml:link rel="alternate"	hreflang="en" href="https://alainvaillancourt.pro/portfolio/" />
+	<loc>https://alainvaillancourt.github.io/portfolio/experience</loc>
+	<xhtml:link rel="alternate"	hreflang="fr" href="https://alainvaillancourt.github.io/portfolio/expérience?lang=fr" />
+	<xhtml:link rel="alternate"	hreflang="en" href="https://alainvaillancourt.github.io/portfolio/experience" />
+</url>
+<url>
+	<loc>https://alainvaillancourt.github.io/portfolio/education</loc>
+	<xhtml:link rel="alternate"	hreflang="fr" href="https://alainvaillancourt.github.io/portfolio/éducation?lang=fr" />
+	<xhtml:link rel="alternate"	hreflang="en" href="https://alainvaillancourt.github.io/portfolio/education" />
+</url>
+<url>
+	<loc>https://alainvaillancourt.github.io/portfolio/resume</loc>
+	<xhtml:link rel="alternate"	hreflang="fr" href="https://alainvaillancourt.github.io/portfolio/curriculum?lang=fr" />
+	<xhtml:link rel="alternate"	hreflang="en" href="https://alainvaillancourt.github.io/portfolio/resume" />
 </url>
 </urlset>
