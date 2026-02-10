@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://alainvaillancourt.github.io/portfolio/sitemap.xml
+Sitemap: https://alainvaillancourt.github.io/portfolio/sitemap_fr.xml
