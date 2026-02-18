@@ -6,28 +6,28 @@
 	<xhtml:link rel="alternate"	hreflang="fr" href="https://alainvaillancourt.github.io/portfolio?lang=fr"/>
 </url>
 <url>
-	<loc>https://alainvaillancourt.github.io/portfolio/compétences?lang=fr</loc>
+	<loc>https://alainvaillancourt.github.io/portfolio/compétences</loc>
 	<xhtml:link rel="alternate"	hreflang="en" href="https://alainvaillancourt.github.io/portfolio/skills"/>
-	<xhtml:link rel="alternate"	hreflang="fr" href="https://alainvaillancourt.github.io/portfolio/compétences?lang=fr"/>
+	<xhtml:link rel="alternate"	hreflang="fr" href="https://alainvaillancourt.github.io/portfolio/compétences"/>
 </url>
 <url>
-	<loc>https://alainvaillancourt.github.io/portfolio/projets?lang=fr</loc>
+	<loc>https://alainvaillancourt.github.io/portfolio/projets</loc>
 	<xhtml:link rel="alternate"	hreflang="en" href="https://alainvaillancourt.github.io/portfolio/projects"/>
 	<xhtml:link rel="alternate"	hreflang="fr" href="https://alainvaillancourt.github.io/portfolio/projets?lang=fr"/>
 </url>
 <url>
-	<loc>https://alainvaillancourt.github.io/portfolio/expérience?lang=fr</loc>
+	<loc>https://alainvaillancourt.github.io/portfolio/expérience</loc>
 	<xhtml:link rel="alternate"	hreflang="en" href="https://alainvaillancourt.github.io/portfolio/experience"/>
-	<xhtml:link rel="alternate"	hreflang="fr" href="https://alainvaillancourt.github.io/portfolio/expérience?lang=fr"/>
+	<xhtml:link rel="alternate"	hreflang="fr" href="https://alainvaillancourt.github.io/portfolio/expérience"/>
 </url>
 <url>
-	<loc>https://alainvaillancourt.github.io/portfolio/éducation?lang=fr</loc>
+	<loc>https://alainvaillancourt.github.io/portfolio/éducation</loc>
 	<xhtml:link rel="alternate"	hreflang="en" href="https://alainvaillancourt.github.io/portfolio/education"/>
-	<xhtml:link rel="alternate"	hreflang="fr" href="https://alainvaillancourt.github.io/portfolio/éducation?lang=fr"/>
+	<xhtml:link rel="alternate"	hreflang="fr" href="https://alainvaillancourt.github.io/portfolio/éducation"/>
 </url>
 <url>
-	<loc>https://alainvaillancourt.github.io/portfolio/curriculum?lang=fr</loc>
+	<loc>https://alainvaillancourt.github.io/portfolio/curriculum</loc>
 	<xhtml:link rel="alternate"	hreflang="en" href="https://alainvaillancourt.github.io/portfolio/resume"/>
-	<xhtml:link rel="alternate"	hreflang="fr" href="https://alainvaillancourt.github.io/portfolio/curriculum?lang=fr"/>
+	<xhtml:link rel="alternate"	hreflang="fr" href="https://alainvaillancourt.github.io/portfolio/curriculum"/>
 </url>
 </urlset>
