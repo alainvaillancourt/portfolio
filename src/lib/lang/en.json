@@ -1,0 +1,145 @@
+{
+	"nav": {
+		"home": { "title": "Home", "icon": "", "href": "/" },
+		"skills": { "title": "Skills", "icon": "i-carbon-assembly-cluster", "href": "/skills" },
+		"projects": { "title": "Projects", "icon": "i-carbon-cube", "href": "/projects" },
+		"experience": { "title": "Experience", "icon": "i-carbon-development", "href": "/experience" },
+		"education": { "title": "Education", "icon": "i-carbon-education", "href": "/education" },
+		"resume": { "title": "Resume", "icon": "i-carbon-document", "href": "/resume" },
+		"search": { "title": "Search", "icon": "i-carbon-search", "href": "/search" }
+	},
+	"page": {
+		"home": { "title": "Home", "slug": "", "description": "IT Specialist & Custom Solutions Developer" },
+		"skills": { "title": "Skills", "slug": "skills", "items": [] },
+		"projects": { "title": "Projects", "slug": "projects", "items": [] },
+		"experience": { "title": "Experience", "slug": "experience", "items": [] },
+		"education": { "title": "Education", "slug": "education", "items": [] },
+		"resume": { "title": "Resume", "slug": "resume", "items": [] }
+	},
+	"mode": {
+		"light": "Light",
+		"dark": "Dark"
+	},
+
+	"Email": "Email",
+	"Website": "Website",
+	"Download": "Download",
+	"Present": "Present",
+	"Related": "Related items",
+	"Untitled": "Untitled",
+	"Upcoming": "Upcoming content",
+	"notfound": "Not Found",
+	"doesntexist": "The content you are looking for does not exist...",
+	"contract": {
+		"fulltime": "Full-time",
+		"parttime": "Part-time",
+		"selfemployed": "Self-employed",
+		"freelance": "Freelance",
+		"contract": "Contract",
+		"internship": "Internship"
+	},
+
+	"category": {
+		"proglang": { "name": "Programming Languages", "slug": "pro-lang" },
+		"framework": { "name": "Frameworks", "slug": "framework" },
+		"lib": { "name": "Libraries", "slug": "libraries" },
+		"db": { "name": "Databases", "slug": "db" },
+		"orm": { "name": "ORMs", "slug": "orm" },
+		"devops": { "name": "DevOps", "slug": "devops" },
+		"dev": { "name": "Dev Tools", "slug": "devtools" },
+		"build": { "name": "Build Tools", "slug": "buildtools" },
+		"mark": { "name": "Markup & Style", "slug": "markup-style" },
+		"design": { "name": "Design Software", "slug": "design" },
+		"env": { "name": "Environments & Runtimes", "slug": "env" },
+		"office": { "name": "Office Software", "slug": "office" },
+		"other": { "name": "Others", "slug": "others" }
+	},
+	"month": {
+		"1": "January",
+		"2": "February",
+		"3": "March",
+		"4": "April",
+		"5": "May",
+		"6": "June",
+		"7": "July",
+		"8": "August",
+		"9": "September",
+		"10": "October",
+		"11": "November",
+		"12": "December"
+	},
+
+	"skill": {
+		"regex": { "slug": "regex", "name": "RegEx", "abstract": "", "description": "Regular Expressions" },
+		"mlang": { "slug": "mlang", "name": "M", "abstract": "", "description": "M formula language" }
+	},
+	"project": {
+		"type": {
+			"www": { "slug": "", "name": "Website" },
+			"svelte": { "slug": "", "name": "Svelte Website" },
+			"doc": { "slug": "", "name": "Document" },
+			"docx": { "slug": "", "name": "Word Document" },
+			"docm": { "slug": "", "name": "Word Document with Macros" },
+			"dotm": { "slug": "", "name": "Word Template with Macros" },
+			"app": { "slug": "", "name": "Application" },
+			"pwa": { "slug": "", "name": "Progressive Web Application" },
+			"bpwa": { "slug": "", "name": "Blazor Progressive Web Application" },
+			"db": { "slug": "", "name": "Database" },
+			"ss": { "slug": "", "name": "Spreadsheet" },
+			"wpext": { "slug": "", "name": "WordPress Plugin" },
+			"wcext": { "slug": "", "name": "WooCommerce Plugin" },
+			"php": { "slug": "", "name": "PHP Script" },
+			"olext": { "slug": "", "name": "Outlook VSTO Add-in" }
+		},
+		"portfolio": { "slug": "portfolio", "name": "Portfolio", "abstract": "My bilingual portfolio, built with Svelte, SvelteKit, and i18n.", "description": "" },
+		"ptreport": { "slug": "patientreport", "name": "Patient Report",
+			"abstract": "Retrieve the content from a WordPress page and merge it into a Word document, applying the styles defined in the template.", "description": "" },
+		"patientapp": { "slug": "patientapp", "name": "Patient App",
+			"abstract": "Allows patients to submit their progress to the practitioner from their smartphone.", "description": "" },
+		"membership": { "slug": "membership", "name": "Membership Status", 
+			"abstract": "Query a partner website about a member's status in order to apply a discount based on his membership.", "description": "" },
+		"quotes": { "slug": "quotes", "name": "Quotes", "abstract": "Database of medical research citations with their references.", "description": "" },
+		"normalize": { "slug": "normalization", "name": "Normalization", "abstract": "Normalize postal addresses and eliminate duplicates in a client list.", "description": "" },
+		"gmap": { "slug": "map", "name": "Interactive Map", "abstract": "Interactive personalized map for a city using the Google Maps API.", "description": "" },
+		"prodlist": { "slug": "product-list", "name": "Product List", "abstract": "Retrieve the product list of a website using WooCommerce into Microsoft Excel.", "description": "" },
+		"restrict": { "slug": "wp-restrict", "name": "WP Restrict", "abstract": "Restrict the size of media files uploaded to a website using WordPress.", "description": "" },
+		"wallview": { "slug": "wallview", "name": "WallView", "abstract": "Simulate the display of a painting on the wall for the website of an artists' workshop.", "description": "" },
+		"clinic": { "slug": "wp-clinic", "name": "WP Clinic", "abstract": "Allows the practitioner to manage his patients in WordPress using Formidable Forms.", "description": "" },
+		"actugui": { "slug": "actuatorgui", "name": "Actuators GUI", "abstract": "Graphical user interface allowing actuator commands to be sent to the server.", "description": "" },
+		"actuapi": { "slug": "actuatorapi", "name": "Actuators API", "abstract": "Server code that allows storing actuator commands in a database.", "description": "" },
+		"actumcu": { "slug": "actuatormcu", "name": "Actuators MCU", "abstract": "Microcontroller code that sends the commands received from the server to the actuators.", "description": "" },
+		"sendmail": { "slug": "sendmail", "name": "SendMail", "abstract": "Allows PHP for Windows to send emails in the same way as PHP for Linux.", "description": "" },
+		"wcpos": { "slug": "wc-pos", "name": "WC POS", "abstract": "Allows adding money and viewing the balance of meal cards for a cafeteria service.", "description": "" },
+		"paypal": { "slug": "paypal", "name": "PayPal", "abstract": "Code that allows adding a PayPal payment hyperlink to invoices sent via email.", "description": "" },
+		"outlookcrm": { "slug": "outlook-crm", "name": "Outlook CRM", "abstract": "Add CRM functionalities to Microsoft Outlook.", "description": "" },
+		"simplecopy": { "slug": "simplecopy", "name": "SimpleCopy", "abstract": "Graphical user interface simplifying the use of the command-line utility Robocopy.", "description": "" },
+		"conversion": { "slug": "conversion", "name": "Conversion", "abstract": "Conversion of files from a fixed-width format for PC to a delimited-width format for Mac.", "description": "" },
+		"commandes": { "slug": "commandes", "name": "Bons de commandes", "abstract": "Database for schoolbook purchase orders.", "description": "" },
+		"pricelist": { "slug": "liste", "name": "Liste de prix", "abstract": "Allows to generate a price list based on the lowest prices from suppliers.", "description": "" },
+		"quest": { "slug": "questionnaires", "name": "Générateur de questionnaires", "abstract": "Questionnaire generator for schools.", "description": "" },
+		"impots": { "slug": "impots", "name": "Revenus et dépenses", "abstract": "Income and expense spreadsheet for tax purposes.", "description": "" },
+		"etats": { "slug": "etats", "name": "États financiers", "abstract": "Comparative financial statements for a financial institution.", "description": "" },
+		"inscriptions": { "slug": "inscriptions", "name": "Inscriptions", "abstract": "Directory of registrations for professional development activities.", "description": "" },
+		"gestion": { "slug": "gestion", "name": "Gestion", "abstract": "Client/Supplier Order Management System.", "description": "" },
+		"achats": { "slug": "achats", "name": "Achats", "abstract": "Purchase Request/Order Management System.", "description": "" },
+		"formations": { "slug": "formations", "name": "Formations", "abstract": "Training Participant Management System.", "description": "" },
+		"paie": { "slug": "paie", "name": "Paie & Coupons", "abstract": "Payroll Management System with Productivity Coupons.", "description": "" },
+		"bail": { "slug": "bail", "name": "Bail", "abstract": "Rental Request and Lease Management System.", "description": "" },
+		"fusion": { "slug": "fusion", "name": "Fusion", "abstract": "Merging of Ministry of Education data with school data.", "description": "" },
+		"facture": { "slug": "facturation", "name": "Facturation", "abstract": "Billing system for schoolbook sales.", "description": "" }
+	},
+	"experience": {
+		"dev": { "slug": "devwebapp", "name": "Web & Apps developer", "abstract": "Development of Websites, Progressive Web Applications, and Desktop Applications.", 
+			"description": "Development of Desktop Applications, Extensions for the Microsoft Office Suite, Progressive Web Applications (PWA), and Websites.", 
+			"type": "Developer", "contract": "", "company": "Self-employed", "location": "Montreal" },
+		"tech": { "slug": "techinfo", "name": "Computer technician", "abstract": "Programming, technical support and training.", 
+			"description": "Programming, hardware/software technical support, training.", 
+			"type": "", "contract": "", "company": "Commission scolaire Les Écores", "location": "Laval" }
+	},
+	"education": {
+		"subject": [ "Programming", "Databases", "Networking", "Office Software", "Computer Assembly" ],
+		"self": { "slug": "self", "name": "", "abstract": "", "description": "", "degree": "Self-taught learning", "organization": "", "location": "" }
+	},
+	"resume": {},
+	"search": {}
+}

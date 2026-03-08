@@ -1,0 +1,145 @@
+{
+	"nav": {
+		"home": { "title": "Accueil", "icon": "", "href": "/" },
+		"skills": { "title": "Compétences", "icon": "i-carbon-assembly-cluster", "href": "/compétences" },
+		"projects": { "title": "Projets", "icon": "i-carbon-cube", "href": "/projets" },
+		"experience": { "title": "Expérience", "icon": "i-carbon-development", "href": "/expérience" },
+		"education": { "title": "Éducation", "icon": "i-carbon-education", "href": "/éducation" },
+		"resume": { "title": "Curriculum", "icon": "i-carbon-document", "href": "/curriculum" },
+		"search": { "title": "Recherche", "icon": "i-carbon-search", "href": "/recherche" }
+	},
+	"page": {
+		"home": { "title": "Accueil", "slug": "", "description": "Spécialiste TI & Développeur de solutions sur mesure" },
+		"skills": { "title": "Compétences", "slug": "compétences", "items": [] },
+		"projects": { "title": "Projets", "slug": "projets", "items": [] },
+		"experience": { "title": "Expérience", "slug": "expérience", "items": [] },
+		"education": { "title": "Éducation", "slug": "éducation", "items": [] },
+		"resume": { "title": "Curriculum Vitae", "slug": "curriculum", "items": [] }
+	},
+	"mode": {
+		"light": "Clair",
+		"dark": "Sombre"
+	},
+
+	"Email": "Courriel",
+	"Website": "Site web",
+	"Download": "Télécharger",
+	"Present": "Présent",
+	"Related": "Items associés",
+	"Untitled": "Sans titre",
+	"Upcoming": "Contenu à venir",
+	"notfound": "Non trouvé",
+	"doesntexist": "Le contenu que vous recherchez n'existe pas...",
+	"contract": {
+		"fulltime": "Temps plein",
+		"parttime": "Temps partiel",
+		"selfemployed": "À mon compte",
+		"freelance": "Pigiste",
+		"contract": "Contrat",
+		"internship": "Stage"
+	},
+
+	"category": {
+		"proglang": { "name": "Langages de programmation", "slug": "pro-lang" },
+		"framework": { "name": "Frameworks", "slug": "framework" },
+		"lib": { "name": "Libraries", "slug": "libraries" },
+		"db": { "name": "Bases de données", "slug": "db" },
+		"orm": { "name": "ORMs", "slug": "orm" },
+		"devops": { "name": "DevOps", "slug": "devops" },
+		"dev": { "name": "Dev Tools", "slug": "devtools" },
+		"build": { "name": "Build Tools", "slug": "buildtools" },
+		"mark": { "name": "Markup & Style", "slug": "markup-style" },
+		"design": { "name": "Logiciels de conception", "slug": "conception" },
+		"env": { "name": "Environments & Runtimes", "slug": "env" },
+		"office": { "name": "Logiciels de bureautique", "slug": "bureautique" },
+		"other": { "name": "Autres", "slug": "autres" }
+	},
+	"month": {
+		"1": "Janvier",
+		"2": "Février",
+		"3": "Mars",
+		"4": "Avril",
+		"5": "Mai",
+		"6": "Juin",
+		"7": "Juillet",
+		"8": "Août",
+		"9": "Septembre",
+		"10": "Octobre",
+		"11": "Novembre",
+		"12": "Décembre"
+	},
+
+	"skill": {
+		"regex": { "slug": "regex", "name": "RegEx", "abstract": "", "description": "Expressions régulières" },
+		"mlang": { "slug": "mlang", "name": "M", "abstract": "", "description": "Langage de formules M" }
+	},
+	"project": {
+		"type": {
+			"www": { "slug": "", "name": "Site Web" },
+			"svelte": { "slug": "", "name": "Site web Svelte" },
+			"doc": { "slug": "", "name": "Document" },
+			"docx": { "slug": "", "name": "Document Word" },
+			"docm": { "slug": "", "name": "Document Word avec macros" },
+			"dotm": { "slug": "", "name": "Modèle Word avec macros" },
+			"app": { "slug": "", "name": "Application" },
+			"pwa": { "slug": "", "name": "Application Web Progressive" },
+			"bpwa": { "slug": "", "name": "Application Web Progressive Blazor" },
+			"db": { "slug": "", "name": "Base de données" },
+			"ss": { "slug": "", "name": "Tableur" },
+			"wpext": { "slug": "", "name": "Extension WordPress" },
+			"wcext": { "slug": "", "name": "Extension WooCommerce" },
+			"php": { "slug": "", "name": "Script PHP" },
+			"olext": { "slug": "", "name": "Complément VSTO Outlook" }
+		},
+		"portfolio": { "slug": "portfolio", "name": "Portfolio", "abstract": "Mon portfolio bilingue, réalisé avec Svelte, SvelteKit et i18n.", "description": "" },
+		"ptreport": { "slug": "patientreport", "name": "Rapport du patient",
+			"abstract": "Récupère le contenu d’une page WordPress et le fusionne dans un document Word en appliquant les styles définis dans le modèle.", "description": "" },
+		"patientapp": { "slug": "patientapp", "name": "Patient App",
+			"abstract": "Permet aux patients de soumettre leur progression au praticien à partir de leur téléphone intelligent.", "description": "" },
+		"membership": { "slug": "membership", "name": "Membership Status", 
+			"abstract": "Interroge un site web partenaire sur le statut d'un membre afin de lui appliquer un rabais en fonction de son adhésion.", "description": "" },
+		"quotes": { "slug": "citations", "name": "Citations", "abstract": "Base de données de citations de recherches médicales avec leurs références.", "description": "" },
+		"normalize": { "slug": "normalisation", "name": "Normalisation", "abstract": "Normalise les adresses postales et élimine les doublons dans une liste de clients.", "description": "" },
+		"gmap": { "slug": "carte", "name": "Carte interactive", "abstract": "Carte interactive personnalisée pour une ville utilisant l'API de Google Maps.", "description": "" },
+		"prodlist": { "slug": "produc-tlist", "name": "Liste des produits", "abstract": "Récupère la liste des produits d'un site web utilisant WooCommerce dans Microsoft Excel.", "description": "" },
+		"restrict": { "slug": "wp-restrict", "name": "WP Restrict", "abstract": "Restreins la taille des médias téléversés dans un site web utilisant WordPress.", "description": "" },
+		"wallview": { "slug": "wallview", "name": "WallView", "abstract": "Simule l'affichage d'un tableau sur un mur pour le site web d'un atelier d'artistes.", "description": "" },
+		"clinic": { "slug": "wp-clinic", "name": "WP Clinic", "abstract": "Permet au praticien de gérer ses patients dans WordPress avec Formidable Forms.", "description": "" },
+		"actugui": { "slug": "actuatorgui", "name": "Actuators GUI", "abstract": "Interface utilisateur graphique permettant d'envoyer les ordres des actuateurs au serveur.", "description": "" },
+		"actuapi": { "slug": "actuatorapi", "name": "Actuators API", "abstract": "Code du serveur permettant de stocker les ordres des actuateurs dans une base de données.", "description": "" },
+		"actumcu": { "slug": "actuatormcu", "name": "Actuators MCU", "abstract": "Code du microcontrolleur envoyant les ordres reçus du serveur aux actuateurs.", "description": "" },
+		"sendmail": { "slug": "sendmail", "name": "SendMail", "abstract": "Permet à PHP pour Windows d'envoyer des courriels de la même façon que PHP pour Linux.", "description": "" },
+		"wcpos": { "slug": "wc-pos", "name": "WC POS", "abstract": "Permet d'ajouter de l'argent et de voir le solde des cartes repas d'un service de cafétéria.", "description": "" },
+		"paypal": { "slug": "paypal", "name": "PayPal", "abstract": "Code permettant d'ajouter un hyperlien de paiement PayPal aux factures envoyées par courriel.", "description": "" },
+		"outlookcrm": { "slug": "outlook-crm", "name": "Outlook CRM", "abstract": "Ajoute des fonctionnalités CRM à Microsoft Outlook.", "description": "" },
+		"simplecopy": { "slug": "simplecopy", "name": "SimpleCopy", "abstract": "Interface utilisateur graphique simplifiant l'utilisation de utilitaire en ligne de commande Robocopy.", "description": "" },
+		"conversion": { "slug": "conversion", "name": "Conversion", "abstract": "Conversion de fichiers d'un format à largeur fixe pour PC vers un format à largeur délimité pour Mac.", "description": "" },
+		"commandes": { "slug": "commandes", "name": "Bons de commandes", "abstract": "Base de données pour les bons de commandes de manuels scolaires.", "description": "" },
+		"pricelist": { "slug": "liste", "name": "Liste de prix", "abstract": "Permet de générer une liste de prix en fonctions des plus bas prix des fournisseurs.", "description": "" },
+		"quest": { "slug": "questionnaires", "name": "Générateur de questionnaires", "abstract": "Générateur de questionnaires pour les écoles.", "description": "" },
+		"impots": { "slug": "impots", "name": "Revenus et dépenses", "abstract": "Feuille de calcul des revenus et des dépenses aux fins de l'impôt.", "description": "" },
+		"etats": { "slug": "etats", "name": "États financiers", "abstract": "États financiers comparatifs pour une institution financière.", "description": "" },
+		"inscriptions": { "slug": "inscriptions", "name": "Inscriptions", "abstract": "Répertoire des inscriptions aux activités de perfectionnement.", "description": "" },
+		"gestion": { "slug": "gestion", "name": "Gestion", "abstract": "Système de gestion des commandes clients/fournisseurs.", "description": "" },
+		"achats": { "slug": "achats", "name": "Achats", "abstract": "Système de gestion des demandes/commandes d'achats.", "description": "" },
+		"formations": { "slug": "formations", "name": "Formations", "abstract": "Système de gestion des participants aux formations.", "description": "" },
+		"paie": { "slug": "paie", "name": "Paie & Coupons", "abstract": "Système de gestion de la paie avec coupons de productivité.", "description": "" },
+		"bail": { "slug": "bail", "name": "Bail", "abstract": "Système de gestion de demandes de location et de baux.", "description": "" },
+		"fusion": { "slug": "fusion", "name": "Fusion", "abstract": "Fusion des données du ministère de l'éducation avec les données des écoles.", "description": "" },
+		"facture": { "slug": "facturation", "name": "Facturation", "abstract": "Système de facturation pour la vente de manuels scolaires.", "description": "" }
+	},
+	"experience": {
+		"dev": { "slug": "devwebapp", "name": "Développeur Web & Apps", "abstract": "Développement de Sites Web, d'Applications Web Progressives et d'Applications de bureau.", 
+			"description": "Développement d'applications de bureau, d'extensions pour la suite Microsoft Office, d'Applications Web Progressives (PWA) et de Sites Web.", 
+			"type": "Développeur", "contract": "", "company": "Travailleur autonome", "location": "Montréal" },
+		"tech": { "slug": "techinfo", "name": "Technicien en informatique", "abstract": "Programmation, dépannage et formation.", 
+			"description": "Programmation, dépannage matériel/logiciel et formation.", 
+			"type": "", "contract": "", "company": "Commission scolaire Les Écores", "location": "Laval" }
+	},
+	"education": {
+		"subject": [ "Programmation", "Bases de données", "Réseautique", "Logiciels de bureautique", "Montage d'ordinateur" ],
+		"self": { "slug": "auto", "name": "", "abstract": "", "description": "", "degree": "Apprentissage autodidacte", "organization": "", "location": "" }
+	},
+	"resume": {},
+	"search": {}
+}

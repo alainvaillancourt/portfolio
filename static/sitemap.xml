@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<url>
+	<loc>https://alainvaillancourt.github.io/portfolio</loc>
+	<xhtml:link rel="alternate"	hreflang="en" href="https://alainvaillancourt.github.io/portfolio"/>
+	<xhtml:link rel="alternate"	hreflang="fr" href="https://alainvaillancourt.github.io/portfolio?lang=fr"/>
+</url>
+<url>
+	<loc>https://alainvaillancourt.github.io/portfolio/skills</loc>
+	<xhtml:link rel="alternate"	hreflang="en" href="https://alainvaillancourt.github.io/portfolio/skills"/>
+	<xhtml:link rel="alternate"	hreflang="fr" href="https://alainvaillancourt.github.io/portfolio/compétences"/>
+</url>
+<url>
+	<loc>https://alainvaillancourt.github.io/portfolio/projects</loc>
+	<xhtml:link rel="alternate"	hreflang="en" href="https://alainvaillancourt.github.io/portfolio/projects"/>
+	<xhtml:link rel="alternate"	hreflang="fr" href="https://alainvaillancourt.github.io/portfolio/projets"/>
+</url>
+<url>
+	<loc>https://alainvaillancourt.github.io/portfolio/experience</loc>
+	<xhtml:link rel="alternate"	hreflang="en" href="https://alainvaillancourt.github.io/portfolio/experience"/>
+	<xhtml:link rel="alternate"	hreflang="fr" href="https://alainvaillancourt.github.io/portfolio/expérience"/>
+</url>
+<url>
+	<loc>https://alainvaillancourt.github.io/portfolio/education</loc>
+	<xhtml:link rel="alternate"	hreflang="en" href="https://alainvaillancourt.github.io/portfolio/education"/>
+	<xhtml:link rel="alternate"	hreflang="fr" href="https://alainvaillancourt.github.io/portfolio/éducation"/>
+</url>
+<url>
+	<loc>https://alainvaillancourt.github.io/portfolio/resume</loc>
+	<xhtml:link rel="alternate"	hreflang="en" href="https://alainvaillancourt.github.io/portfolio/resume"/>
+	<xhtml:link rel="alternate"	hreflang="fr" href="https://alainvaillancourt.github.io/portfolio/curriculum"/>
+</url>
+</urlset>
